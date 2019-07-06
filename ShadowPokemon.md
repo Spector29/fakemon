@@ -1,0 +1,11 @@
+"Shadow Corphish": { "Moves": { "Level": { "2": [ "Shadow Rush" ], "6":
+[ "Bubble Beam", "Protect", "Double Hit" ], "10": [ "Knock Off", "Night
+Slash" ], "14": [ "Taunt", "Swords Dance", "Crunch" ], "18": [
+"Crabhammer", "Guillotine" ] }, "Starting Moves": [ "Bubble" ], "TM": [
+] }, "index": 1000, "Abilities": [ "Hyper Cutter", "Shell Armor" ],
+"Type": [ "Water/Shadow" ], "SR": 0.25, "AC": 12, "Hit Dice": 6, "HP":
+16, "WSp": 15, "Ssp": 25, "attributes": { "STR": 13, "DEX": 10, "CON":
+11, "INT": 6, "WIS": 10, "CHA": 10 }, "MIN LVL FD": 1, "Evolve":
+"Crawdaunt", "saving\_throws": [ "STR" ], "Skill": [ "Nature" ], "Res":
+[ "Fire", "Ice", "Steel", "Water" ], "Vul": [ "Electric", "Grass" ],
+"Hidden Ability": "Adaptability" }
