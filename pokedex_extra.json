@@ -1,0 +1,14 @@
+{
+  "Fakemon":{
+    "flavor": "Fakemon is often seen near watering holes praying on other Fakemons",
+    "height": 15,
+    "weight": 12,
+    "genus": "Fake Pokémon"
+  },
+    "Fakemon-Z":{
+    "flavor": "Fakemon-Z is know for being extra fake",
+    "height": 11,
+    "weight": 43,
+    "genus": "Fake Pokémon"
+  }
+}

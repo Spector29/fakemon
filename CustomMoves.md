@@ -1,7 +1,0 @@
-{ "Shadow Rush": { "Type": "Dark", "Move Power": [STR/DEX ], "Move
-Time": "1 action", "PP": 15, "Duration": "Instantaneous", "Range":
-"Melee", "Description": "An attack that is so harsh, it also hurts the
-attacker.", "Damage": { "1": { "amount": 2, "dice\_max": 4, "move": true
-}, "5": { "amount": 1, "dice\_max": 10, "move": true }, "10": {
-"amount": 2, "dice\_max": 8, "move": true }, "17": { "amount": 2,
-"dice\_max": 12, "move": true } } } }
