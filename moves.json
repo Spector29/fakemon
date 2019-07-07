@@ -1,13 +1,13 @@
 {
   "Shadow Rush": {
     "Type": "Dark",
-    "Move Power": "STR",
+    "Move Power": ["STR"],
     "Move Time": "1 action",
     "PP": 15,
     "Duration": "Instantaneous",
     "Range": "Melee",
     "Description": "An attack that is so harsh, it also hurts the
-attacker.",
+attacker. 1/4 of the rolled damage is taken by the Pokemon as typeless recoil damage.",
     "Damage": {
       "1": {
         "amount": 2,
